@@ -25,8 +25,6 @@ public class ProgramPipeline {
 				.collect(Collectors.toList());
 				
 		System.out.println(Arrays.toString(newList.toArray()));
-		
-		
 	}
 
 }
